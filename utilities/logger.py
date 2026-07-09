@@ -9,5 +9,4 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Git Practice
-# Git Ajay
-# # Search Team
+# Search Team
