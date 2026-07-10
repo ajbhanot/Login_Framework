@@ -8,5 +8,4 @@ logging.basicConfig(
 
 logger = logging.getLogger(__name__)
 
-# Main Team
-# Login Feature
+# Main Team Work
