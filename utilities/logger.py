@@ -8,6 +8,4 @@ logging.basicConfig(
 
 logger = logging.getLogger(__name__)
 
-# Git Practice
-# Main Team Updated
-# Main Updated Againq
+# Main Team
